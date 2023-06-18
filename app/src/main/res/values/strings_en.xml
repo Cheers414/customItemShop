@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_en">home</string>
+    <string name="caseDemo_en">Phone Case</string>
+    <string name="setting_en">Setting</string>
+    <string name="logout_en">Log out</string>
+    <string name="registerOrLogin_en">Register Or Login</string>
+    <string name="about_en">About</string>
+    <string name="language_en">語言/Language</string>
+
+    <string name="title_activity_main_en">MainActivity</string>
+    <string name="navigation_drawer_open_en">Open navigation drawer</string>
+    <string name="navigation_drawer_close_en">Close navigation drawer</string>
+    <string name="nav_header_title_en">Android Studio</string>
+    <string name="nav_header_subtitle_en">android.studio@android.com</string>
+    <string name="nav_header_desc_en">Navigation header</string>
+    <string name="action_settings_en">Settings</string>
+
+    <string name="menu_home_en">Home</string>
+    <string name="menu_gallery_en">Gallery</string>
+    <string name="menu_slideshow_en">Slideshow</string>
+</resources>
